@@ -1,0 +1,20 @@
+body {
+    background-color: #F7EFE5;
+    margin: 0;
+}
+
+.top-container {
+    background-color: #CDE990;
+    margin: -50px 60% 20px 40px;
+    border-radius: 30px;
+    padding: 10px 10px;
+}
+
+.triangle1{
+    margin-top: 20px;
+}
+
+.triangle2{
+    margin-top: -70px;
+    margin-left: 500px;
+}
